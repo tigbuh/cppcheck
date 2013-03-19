@@ -39,6 +39,8 @@ test/temp/
 *.mode[0-9]v[0-9]
 *.pbxuser
 build/
+project.xcworkspace/
+xcuserdata/
 
 # GUI build folders
 gui/debug/
